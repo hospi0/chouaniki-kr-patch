@@ -14,7 +14,7 @@ DIR = ROM
 SRC = os.path.join('C:' + os.sep, 'claude', 'roms', 'ss', DIR)
 OUT = os.path.join(ROOT, 'dist', 'build', DIR)
 NAME = 'ChouAniki_KR_' + VER
-TITLE = '초형귀 궁극…남자의 역습 (세가 새턴 일본판) 한글 패치 ' + VER
+TITLE = '초형귀 궁극…남의 역습 (세가 새턴 일본판) 한글 패치 ' + VER
 
 
 def md5(p):

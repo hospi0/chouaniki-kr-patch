@@ -1,4 +1,4 @@
-# 초형귀 궁극…남자의 역습 (세가 새턴 일본판) 한글 패치
+# 초형귀 궁극…남의 역습 (세가 새턴 일본판) 한글 패치
 
 - 원본: `Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan)` (22트랙, 트랙 01 에만 패치)
 - 배포 파일은 릴리즈의 zip(xdelta + 적용 bat + readme + 숨은 문서 번역 4개)을 쓰세요.
